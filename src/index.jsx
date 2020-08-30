@@ -11,7 +11,7 @@ const propTypes = {
  * Hide the child component on prod
  * but show on dev env
  */
-const DevOnly = ({ children }) => {
+export const DevOnly = ({ children }) => {
   if (isProdEnv()) {
     return <div style={{ display: 'none' }}>{children}</div>;
   } else {

@@ -1,6 +1,6 @@
 {
   "name": "rc-dev-only",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "React component to hide sub component in production environment",
   "engines": {
     "node": ">=8.x"
@@ -26,8 +26,7 @@
   "homepage": "https://github.com/chengzh1/DevContainer#readme",
   "peerDependencies": {
     "prop-types": "^15.6.0",
-    "react": "^16.0.0",
-    "create-react-app": "^3.4.1"
+    "react": "^16.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.11.4",
