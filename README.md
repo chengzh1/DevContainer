@@ -1,2 +1,2 @@
 # DevContainer
-React component to hide/disable sub component in production environment
+React component to hide sub component in production environment

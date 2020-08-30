@@ -1,0 +1,30 @@
+{
+  "name": "rc-dev-container",
+  "version": "0.1.0",
+  "description": "React component to hide sub component in production environment",
+  "engines": {
+    "node": ">=8.x"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "dev"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengzh1/DevContainer.git"
+  },
+  "author": "chengzh1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chengzh1/DevContainer/issues"
+  },
+  "homepage": "https://github.com/chengzh1/DevContainer#readme",
+  "devDependencies": {
+    "react": "^16.13.1"
+  }
+}
