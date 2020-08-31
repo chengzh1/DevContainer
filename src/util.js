@@ -1,1 +1,0 @@
-export const isProdEnv = () => typeof process !== 'undefined' && process.env && process.env.NODE_ENV === 'production';
